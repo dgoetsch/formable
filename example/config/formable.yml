@@ -1,0 +1,8 @@
+config_dir: example/config
+tf_dir: example/terraform
+tf_cmd: plan
+project: dev-cicd
+service_account: omni-king
+service: example
+region: us-central1
+zone: us-central1-a
